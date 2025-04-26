@@ -50,5 +50,5 @@ def checkForBirthday():
     else:
         print("There are no birthdays in the birthdays.csv file")
     
-
-checkForBirthday()    
+if __name__ == "__main__":
+    checkForBirthday()    
