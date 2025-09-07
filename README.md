@@ -9,7 +9,7 @@ This project is a Python script that automatically sends birthday greetings via 
 - Uses SMTP with TLS for secure email delivery
 - Logs connection steps for debugging
 
-### Optional Features
+### Additional Features to Add Later
 - Scheduling to run every day
 - Customizing the message dynamically using an AI API (eg. ChatGPT API)
 - Encrypting `birthdays.csv` to ensure safety
