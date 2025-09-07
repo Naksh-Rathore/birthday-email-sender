@@ -40,7 +40,7 @@ pip install pandas
    - `date`: Birthday in `MM-DD` format
    - `year`: Year of birth (used to calculate age)
 
-3. **Optional**: Customize the email message inside the `email_content` string.
+3. **Optional**: Customize the email message inside the `email_content` string with an AI API.
 
 ## Usage
 
